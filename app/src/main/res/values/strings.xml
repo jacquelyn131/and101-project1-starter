@@ -8,7 +8,7 @@
     <string name="profile_bio_text">I am Jacquelyn and I am a \nComputer Science student at FIU.</string>
 
     <string name="profile_hobby_header_text">My hobbies:</string>
-    <string name="profile_hobby_first_text">🥇 &#127796; I have recently gotten into \nsewing and fixing my clothes \n and stuff.</string>
-    <string name="profile_hobby_second_text">🥈 Going to the beach.</string>
-    <string name="profile_hobby_third_text">🥉 Drawing and making art.</string>
+    <string name="profile_hobby_first_text">&#128087; I have recently gotten into \nsewing and fixing my clothes \n and stuff.</string>
+    <string name="profile_hobby_second_text">&#127796; Going to the beach.</string>
+    <string name="profile_hobby_third_text">&#128396; Drawing and making art.</string>
 </resources>

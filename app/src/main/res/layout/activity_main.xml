@@ -27,7 +27,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="60dp"
-                android:src="@drawable/avatar_9"/>
+                android:src="@drawable/avatar_4"/>
 
             <TextView
                 android:id="@+id/profile_name"
@@ -37,11 +37,11 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="50dp"
-                tools:text="First Last"
+                tools:text="Jacquelyn Shelby"
                 android:textSize="24sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:textAllCaps="true"/>
+                android:textAllCaps="false"/>
 
             <TextView
                 android:id="@+id/profile_bio"
