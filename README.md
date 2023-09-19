@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <![demo video](https://i.imgur.com/lbuRtrU.gif) title='Video Demo' alt='Video Demo' width='200'/>
-<img ![demo video](https://i.imgur.com/lbuRtrU.gif) />
+![](https://i.imgur.com/lbuRtrU.gif)
 
 
 GIF created with **GIF Maker**
