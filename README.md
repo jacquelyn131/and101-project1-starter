@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img href='https://i.imgur.com/lbuRtrU.gif' title='Video Demo' alt='Video Demo' width='200'/>
+<img src='https://i.imgur.com/lbuRtrU.gif' title='Video Demo' alt='Video Demo' width='200'/>
 ![](https://i.imgur.com/lbuRtrU.gif)
 
 
