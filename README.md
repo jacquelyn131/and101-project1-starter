@@ -34,6 +34,8 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+<!-- this is an example -->
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 <img src='https://i.imgur.com/lbuRtrU.gif' title='Video Demo' alt='Video Demo' width='200'/>
 ![video demo](https://i.imgur.com/lbuRtrU.gif)
