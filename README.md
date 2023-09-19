@@ -2,9 +2,9 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: **Your Name Here**
+Submitted by: **Jacquelyn Shelby**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 <!-- this is an example -->
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![demo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtzYXY0bzVzbWZ3eW5wczIxMTh4YW1xNWhvZ21xcjRsbzRqMHBjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZH0ZU69Q43nOaB4qNG/giphy.gif))
 
 <img src='https://i.imgur.com/lbuRtrU.gif' title='Video Demo' alt='Video Demo' width='200'/>
 ![video demo](https://i.imgur.com/lbuRtrU.gif)
