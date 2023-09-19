@@ -35,7 +35,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/lbuRtrU.gif' title='Video Demo' width='' alt='Video Demo' />
+<![demo video](https://i.imgur.com/lbuRtrU.gif) title='Video Demo' alt='Video Demo' width='200'/>
+<img ![demo video](https://i.imgur.com/lbuRtrU.gif) />
 
 
 GIF created with **GIF Maker**
@@ -51,7 +52,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Jacquelyn Shelby**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
